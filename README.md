@@ -36,6 +36,9 @@ Each module file contains main takeaways, full notes, the knowledge-check answer
 7. Deploy and Manage Applications Using Microsoft Intune
    Achievement: https://learn.microsoft.com/api/achievements/share/en-us/DatDo-7483/P62X7EQ4?sharingId=15FA99AA28223E58
 
+8. [Introduction to Microsoft Intune](08-introduction-to-microsoft-intune.md)
+   Intune as one integrated endpoint platform, MDM versus MAM, Configuration Manager, cloud attach (tenant attach and co-management), endpoint analytics, and Windows Autopilot.
+
 ## Slides
 
 - [intune-device-security.html](slides/intune-device-security.html) - self-contained slide deck (24 slides), open directly in a browser. Covers three of the six modules: compliance and remediation, Microsoft Tunnel, and Cloud PKI.
