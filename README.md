@@ -38,6 +38,7 @@ Each module file contains main takeaways, full notes, the knowledge-check answer
 
 8. [Introduction to Microsoft Intune](08-introduction-to-microsoft-intune.md)
    Intune as one integrated endpoint platform, MDM versus MAM, Configuration Manager, cloud attach (tenant attach and co-management), endpoint analytics, and Windows Autopilot.
+   Achievement: https://learn.microsoft.com/api/achievements/share/en-us/DatDo-7483/ZJYHW8V2?sharingId=15FA99AA28223E58
 
 ## Slides
 

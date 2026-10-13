@@ -3,6 +3,7 @@
 Source: Microsoft Learn module "Introduction to Microsoft Intune" (slug `intro-to-endpoint-manager`), MD-102 Endpoint Administrator material.
 
 Module completed 2026-10-13.
+Achievement: https://learn.microsoft.com/api/achievements/share/en-us/DatDo-7483/ZJYHW8V2?sharingId=15FA99AA28223E58
 
 ## Main takeaways
 
